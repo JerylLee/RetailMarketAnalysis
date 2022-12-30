@@ -27,7 +27,7 @@ The Solution:
 - Optimize the webstie for mobile
 
 
-![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.37.19%20AM.png?raw=true)
+![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-30%20at%208.53.28%20AM.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.37.31%20AM.png?raw=true)
 
