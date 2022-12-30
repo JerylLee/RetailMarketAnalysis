@@ -1,4 +1,4 @@
-# eCommerce Process Flow Analysis
+# KOKOLU Ecommerce Data Analysis
 
 Company Background:  
 
@@ -7,14 +7,17 @@ https://kokolu.eco
 
 The Challenge:
 
-Their online store offers sustainable products. They launched its website in 2015 and had achieved some moderate traffic gain. The problem was they couldn’t surpass 3000 monthly visitors.
+The company has many international customers, so they run paid advertising and social media campaigns 24 hours a day, seven days a week. The digital marketing leadership is pleased with the website traffic these campaigns are generating. However, the average number of new accounts created each week is below the expected target.
 
-Metrics:
-- Campaign
+Metrics examined:
 - Ad group
 - Keyword
 - Search query
-- Device
+- Users
+- Sessions
+- Bounce Rate
+- Pages/Session
+- Conversion
 
 The Solution:
 
