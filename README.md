@@ -26,6 +26,11 @@ The Solution:
 - Speed up the pages
 - Optimize the webstie for mobile
 
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
+
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Customer%20details.png?raw=true)
+
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Product%20details.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-30%20at%208.53.28%20AM.png?raw=true)
 
