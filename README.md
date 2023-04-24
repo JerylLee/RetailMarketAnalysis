@@ -1,30 +1,18 @@
-# Ecommerce Market Analysis
+The project aims to analyze the Ecommerce retail industry and provide insights into the market trends, key players, and growth opportunities. The project will leverage data analytics tools and techniques to collect and analyze data on eCommerce sales, consumer behavior, and market trends.
 
-Company Background:  
+Tasks:
 
-KOKOLU is a sustainable lifestyle brand that designs and produces sustainable footwear, clothing for consumers around the world.
-https://kokolu.eco
+- Shopping Analysis (including shopping behavior and user checkout behavior)
 
-The Challenge:
+- Marketing Analysis (including customer responses to internal promotions, product or order coupons, and affiliate codes)
 
-The company has many international customers, so they run paid advertising and social media campaigns 24 hours a day, seven days a week. The digital marketing leadership is pleased with the website traffic these campaigns are generating. However, the average number of new accounts created each week is below the expected target.
+- A predictive model for E-commerce reports that can be used to boost online sales, conversions, and even the right product pricing based on customer sentiments.
 
-Metrics examined:
-- Ad group
-- Keyword
-- Search query
-- Users
-- Sessions
-- Bounce Rate
-- Pages/Session
-- Conversion
+Tools: 
 
-The Solution:
-
-- Optimize SEO
-- Conduct thorough keyword research
-- Speed up the pages
-- Optimize the webstie for mobile
+- Data wrangling (python)
+- Data cleaning (excel, SQL)
+- Data visualization(Tableau)
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
 
