@@ -25,11 +25,9 @@ Sales Data Analysis
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Product%20details.png?raw=true)
 
-![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Product%20details.png?raw=true)
-
+--------------------------------
 ![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-30%20at%208.53.28%20AM.png?raw=true)
 
-Shopping Analysis
 ![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-30%20at%208.53.39%20AM.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/Ecommerce-process-flow-analysis/blob/main/Screen%20Shot%202022-12-30%20at%208.53.48%20AM.png?raw=true)
