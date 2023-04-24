@@ -1,6 +1,6 @@
 One of the most important tasks for any retail store company is to analyze the performance of its stores. The main challenge faced by any retail store is predicting in advance the sales and inventory required at each store to avoid over-stocking and under-stocking. This helps the business to provide the best customer experience and avoid getting into losses, thus ensuring the store is sustainable for operation.
 
-In this project, I’ll use retail storehttps://www.kaggle.com/datasets/flaviocesarsandoval/sales-product-ecommerce
+In this project, I’ll use retail store https://www.kaggle.com/datasets/flaviocesarsandoval/sales-product-ecommerce
 available on Kaggle.
 
 The project aims to analyze the Ecommerce retail industry and provide insights into the market trends, key players, and growth opportunities. The project will leverage data analytics tools and techniques to collect and analyze data on eCommerce sales, consumer behavior, and market trends.
