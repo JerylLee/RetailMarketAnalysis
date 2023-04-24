@@ -19,6 +19,8 @@ Data Cleaning
 
 Sales Data Analysis
 
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Screen%20Shot%202023-04-23%20at%2011.00.22%20PM.png?raw=true)
+
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Customer%20details.png?raw=true)
