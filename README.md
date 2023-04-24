@@ -17,6 +17,8 @@ Tools:
 Data Cleaning
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/data%20cleaning.png?raw=true)
 
+Sales Data Analysis
+
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Customer%20details.png?raw=true)
