@@ -1,4 +1,4 @@
-# KOKOLU Ecommerce Data Analysis
+# Ecommerce Market Analysis
 
 Company Background:  
 
