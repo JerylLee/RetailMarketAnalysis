@@ -14,6 +14,9 @@ Tools:
 - Data cleaning (excel, SQL)
 - Data visualization(Tableau)
 
+Data Cleaning
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/data%20cleaning.png?raw=true)
+
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Customer%20details.png?raw=true)
