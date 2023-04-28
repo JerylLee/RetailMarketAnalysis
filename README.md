@@ -24,7 +24,7 @@ The project aims to analyze the retail industry and provide insights into the ma
 I use Excel as a tool to clean data by using its various functions and features.  Excel allows me to easily identify and remove duplicate values, correct formatting errors, remove unwanted characters, and replace missing values. I also use Excel to transform data by splitting cells, merging cells, and converting data types. 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/data%20cleaning.png?raw=true)
 
-Sales Performance Analysis:
+**Sales Performance Analysis:**
 
 I created a sales dashboard that showed sales by product category, region, and time period. This dashboard allowed me to quickly identify top-performing products and regions, as well as sales trends over time. I also created a geographical map that showed sales by region, which allowed me to identify areas where sales were particularly strong or weak. Based on the insights gained from the sales performance analysis, we can develop an action plan to improve sales performance. For example, we can increase advertising spend in regions with lower sales, optimize pricing to improve profit margins, or develop new products to target high-value customer segments.
 
@@ -34,12 +34,12 @@ Trend & Seasonality
 Let’s see how the sales vary with month. The above graph tells us that sales tend to spike in December, which makes sense because of the Christmas and holiday season. So, this confirms that the sales vary with the ‘Date’ (time) and there is a seasonality factor present in our data.
 
 
-Customer Segment Analysis:
+**Customer Segment Analysis:**
 
 By conducting a customer segment analysis, we can gain insights into customer behavior, including purchase frequency, purchase amount, and product preferences. These insights can be used to develop a targeted marketing strategy for each customer segment. For instance, we can create personalized email campaigns, offer discounts or promotions, or develop new products that cater to the needs of each segment. Based on the results of the analysis, it is suggested that further campaigns should focus on the 26-30 age group, particularly female.
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Customer%20details.png?raw=true)
 
-Product Analysis:
+**Product Analysis:**
 The dashboard is created to analyze three questions related to product analysis:
 1. What are the top-selling products by revenue and quantity sold?
 2. Which product categories are the most profitable?
