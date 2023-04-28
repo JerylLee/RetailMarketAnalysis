@@ -1,11 +1,11 @@
 One of the most important tasks for any retail store company is to analyze the performance of its stores. The main challenge faced by any retail store is predicting in advance the sales and inventory required at each store to avoid over-stocking and under-stocking. This helps the business to provide the best customer experience and avoid getting into losses, thus ensuring the store is sustainable for operation.
 
-In this project, I’ll use retail store https://www.kaggle.com/datasets/flaviocesarsandoval/sales-product-ecommerce
+In this project, I’ll use **retail store dataset** https://www.kaggle.com/datasets/flaviocesarsandoval/sales-product-ecommerce
 available on Kaggle.
 
 The project aims to analyze the retail industry and provide insights into the market trends, key players, and growth opportunities. The project will leverage data analytics tools and techniques to collect and analyze data on eCommerce sales, consumer behavior, and market trends.
 
-Tasks:
+**Tasks:**
 
 - Shopping Analysis (including shopping behavior and user checkout behavior)
 
@@ -13,13 +13,13 @@ Tasks:
 
 - A predictive model for E-commerce reports that can be used to boost online sales, conversions, and even the right product pricing based on customer sentiments.
 
-Tools: 
+**Tools:**
 
 - Data wrangling (python)
 - Data cleaning (excel, SQL)
 - Data visualization(Tableau)
 
-Exploratory Data Analysis 
+**Exploratory Data Analysis**
 
 I use Excel as a tool to clean data by using its various functions and features.  Excel allows me to easily identify and remove duplicate values, correct formatting errors, remove unwanted characters, and replace missing values. I also use Excel to transform data by splitting cells, merging cells, and converting data types. 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/data%20cleaning.png?raw=true)
