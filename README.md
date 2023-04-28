@@ -29,7 +29,7 @@ I use Excel as a tool to clean data by using its various functions and features.
 I created a sales dashboard that showed sales by product category, region, and time period. This dashboard allowed me to quickly identify top-performing products and regions, as well as sales trends over time. I also created a geographical map that showed sales by region, which allowed me to identify areas where sales were particularly strong or weak. Based on the insights gained from the sales performance analysis, we can develop an action plan to improve sales performance. For example, we can increase advertising spend in regions with lower sales, optimize pricing to improve profit margins, or develop new products to target high-value customer segments.
 
 ![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Sales%20details.png?raw=true)
-Trend & Seasonality
+**Trend & Seasonality**
 
 Let’s see how the sales vary with month. The above graph tells us that sales tend to spike in December, which makes sense because of the Christmas and holiday season. So, this confirms that the sales vary with the ‘Date’ (time) and there is a seasonality factor present in our data.
 
